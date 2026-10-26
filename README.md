@@ -4,7 +4,7 @@ An embedded systems project developed in C using the STM32 Hardware Abstraction 
 
 ## Live Simulation
 
-**[Click here to run the STM32 UART LED Controller in Wokwi](PASTE_WOKWI_LINK_HERE)**
+**[Click here to run the STM32 UART LED Controller in Wokwi](https://wokwi.com/projects/478540786550746113)**
 
 The complete source code and hardware configuration are available directly in the Wokwi project.
 
